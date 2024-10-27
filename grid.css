@@ -1,0 +1,35 @@
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr; 
+    grid-gap: 5px; 
+    background-color: white;
+    border-radius: 25px;
+    
+  }
+
+  .item {
+    background-color:white;
+    padding: 5px;
+    text-align: center;
+    align-items: center;
+    color: black;
+  }
+
+  body{
+    background-color: gray;
+  }
+
+  h2{
+    padding-left: 40%;
+    background-color: white;
+    
+  }
+
+  a{
+    color: black;
+  }
+
+
+
+  
+

@@ -1,0 +1,20 @@
+div{
+    
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    background-color: white;
+   
+
+}
+
+body{
+    background-color: gray;
+
+}
+
+.grid{
+   display: grid;
+}
+
